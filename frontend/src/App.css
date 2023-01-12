@@ -1,0 +1,23 @@
+form{
+  width: 50vw;
+  margin: 30px auto;
+}
+
+form input{
+  margin: 4px;
+}
+
+p{
+  color: #ff30e3;
+  font-weight: 500;
+  margin-left: 0;
+}
+
+.btn-customized{
+  color: #ff30e3;
+  border: #ff30e3 solid 1px;
+}
+.btn-customized:hover{
+  background-color: #ff30e3;
+  color: #fff;
+}
